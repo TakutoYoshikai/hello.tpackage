@@ -2,3 +2,6 @@ lina
 nats
 mknpm
 connection
+bg-slideshow
+loop
+timer-shell
